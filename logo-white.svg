@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <!-- Fox Icon -->
+  <g transform="translate(0, 5)">
+    <path d="M40 10 L50 0 L60 10 L55 25 L45 25 Z" fill="#F26522" />
+    <path d="M30 10 L40 0 L50 10 L45 25 L35 25 Z" fill="#F26522" />
+    <circle cx="37" cy="15" r="2" fill="#000000" />
+    <circle cx="53" cy="15" r="2" fill="#000000" />
+    <path d="M45 20 L45 25" stroke="#000000" stroke-width="1.5" />
+    <path d="M40 25 L50 25 L55 40 L35 40 Z" fill="#F26522" />
+    <path d="M35 40 L30 50" stroke="#F26522" stroke-width="3" stroke-linecap="round" />
+    <path d="M55 40 L60 50" stroke="#F26522" stroke-width="3" stroke-linecap="round" />
+  </g>
+  
+  <!-- Text: ClickFox -->
+  <text x="70" y="30" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#FFFFFF">Click</text>
+  <text x="130" y="30" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#F26522">Fox</text>
+  
+  <!-- Text: Digital -->
+  <text x="70" y="50" font-family="Arial, sans-serif" font-size="18" fill="#FFFFFF">Digital</text>
+</svg>
